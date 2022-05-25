@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "./0-current_working_directory"
-shell basics
+echo "shell_basics"
+$ ./0-current_working_directory
